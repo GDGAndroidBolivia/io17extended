@@ -1,5 +1,3 @@
-# Google I/O Extended page
+# Google I/O Extended Android Bolivia
 
-## En construcción
-
-![intro-google]
+## Página oficial
